@@ -1,0 +1,2 @@
+Usb.c:7:6:Usb_SendKeyPress	16	static
+Usb.c:14:6:Usb_ReleaseKeys	8	static
